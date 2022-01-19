@@ -1,0 +1,33 @@
+<!doctype html>
+<head>
+<title>web - 1</title>
+<meta charset="utf-8">
+
+<h1>Front-end web developer</h1>
+<p><p style="margin: top 40px;" ></p>Here we provide you with a structured course that will teach you all you need to know to become a front-end web developer.
+Work through each section,<u>learning new skills</u><strong>(or improving existing ones)</strong> as you go along.
+Each section includes exercises and assessments to test your understanding before you move forward</p>
+<h2>프론트엔드 웹 개발자가 되기 위한 조건</h2>
+<h3>Subjects covered</h3>
+<ol>
+    <li> Basic setup and learning how to learn</li>
+    <li> Web standards and best practices (such as accessibility and cross-browser compatibility)</li>
+    <li> HTML, the language that gives web content structure and meaning</li>
+    <li> CSS, the language used to style web pages</li>
+    <li> JavaScript, the scripting language used to create dynamic functionality on the web</li>
+    <li> Tooling that is used to facilitate modern client-side web development.</li>
+</ol>
+    <strong> can work through sections in order, but each one is also self-contained. For example, if you already 
+        know HTML, you can skip ahead to the CSS section.</strong>
+    <h4>Prerequisites</h4>
+<ol>
+    <li>You don't need any previous knowledge to start this course.
+    All you need is a computer that can run modern web browsers, an internet connection, and a willingness to learn.</li>
+    <li>If you are not sure if front-end web development is for you, and/or you want a gentle introduction before starting a longer and more complete course,
+    work through our<strong><a href="https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web">Getting started with the web</a></strong> module first</li>
+</ol>
+    <h5>Getting help</h5>
+<ol>
+    <li>We have tried to make learning front-end web development as comfortable as possible, but you will probably still get stuck because you don't understand something, or some code is just not working.</li>
+    <li>Don't panic. We all get stuck, whether we are beginner or professional web developers. The <strong><a href="https://developer.mozilla.org/en-US/docs/Learn/Learning_and_getting_help">Learning and getting help</a></strong> article provides you with a series of tips for looking up information and helping yourself. If you are still stuck, feel free to post a question on our <strong><a href="https://developer.mozilla.org/en-US/docs/Learn/Learning_and_getting_help">Discourse forum</a></strong> </li>
+<h6>HTML</h6>
